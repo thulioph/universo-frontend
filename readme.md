@@ -1,10 +1,10 @@
 ## Modern Workflow
 
-O curso tem o objetivo de explanar as ferramentas usadas em um desenvolvimento web moderno, onde você poderá integrar ao dia-a-dia do seu time e ganhar em **performance**, **desenvolvimento**, **qualidade** e **organização**. O curso foi preparado para que de acordo com a evolução do aluno, ele vá vendo um produto sendo desenvolvido, ajudando na compreensão do conteúdo.
+O curso tem o objetivo de explanar as ferramentas usadas em um desenvolvimento web moderno, onde você poderá integrar ao dia-a-dia do seu time e ganhar em **performance**, **desenvolvimento**, **qualidade** e **organização**; Foi preparado para que de acordo com a evolução do aluno, ele vá vendo um produto sendo desenvolvido, ajudando na compreensão do conteúdo.
 
-O curso é destinado para desenvolvedores, programadores, designers, alunos, times, startups ou qualquer um que queira aprender como criar uma WebApp utilizando um workflow moderno.
+É destinado para desenvolvedores, programadores, designers, alunos, times, startups ou qualquer um que queira aprender como criar uma WebApp utilizando um workflow moderno.
 
-Após a conclusão do curso o aluno estará apto à: 
+Após a conclusão o aluno estará apto à: 
 
 - Desenvolver uma aplicação web do zero utilizando angularjs com material design;
 - Manter um padrão no desenvolvimento e organização do código;
@@ -29,7 +29,7 @@ Para participar do curso é necessário que o aluno tenha as seguintes habilidad
 
 ## Ementa
 
-Abaixo, segue o contéudo dos módulos que serão apresentado durante o curso:
+Abaixo, segue o contéudo dos módulos que serão apresentado:
 
 ##### Módulo Tradicional
 
